@@ -1,4 +1,6 @@
 
-CONTRACT ADDRESS 0x051363ea5fcda7e32A6212A1a20CDebD0CE90620
+CONTRACT_ADDRESS 0x051363ea5fcda7e32A6212A1a20CDebD0CE90620
 
+
+ABI directory contract/artifacts/hello_world_metadata.json
 
